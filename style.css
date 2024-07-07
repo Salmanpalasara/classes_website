@@ -1,0 +1,49 @@
+*{padding: 0;margin: 0;box-sizing: border-box;}
+
+body{
+	overflow-x: hidden;
+}
+h1{
+	font-family: 'Edu SA Beginner', cursive;
+}
+
+h4{
+	font-family: 'Edu SA Beginner', cursive;
+}
+
+
+#img{
+	width: 80px;
+	height: 50px;
+	margin-left: -20px;
+}
+
+.carousel-item img{
+	width: 100%;
+	height: 80vh;
+} 
+
+#navbar{
+	text-decoration-color: black;
+}
+#paragraph{
+	font-family: 'Edu SA Beginner', cursive;
+	font-size: 30px;
+}
+
+#accordionFlushExample
+{
+	font-family: 'Edu SA Beginner', cursive;
+	width: 600px;
+	font-size: 20px;
+}
+
+#accordian_item{
+	font-size: 20px;
+}
+#card{
+	font-family: 'Edu SA Beginner', cursive;
+}
+.card-img-top{
+	height: 200px;
+}
